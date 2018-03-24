@@ -1,2 +1,2 @@
 # Example-1
-GitBash changes
+creating conflict
